@@ -7,3 +7,5 @@ Go inside each directory and execute the following commands:
     ./main
 
 Use `./main --help` for a list of arguments
+
+Note: do not expect to find quality code in this repo, this project contains only hacks
